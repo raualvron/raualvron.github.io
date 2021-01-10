@@ -28,7 +28,7 @@ document.getElementsByClassName('stop-effect')[0].addEventListener('click', func
 })
 
 typewriter.typeString('<div class="terminal_text">Raul Alvarez Roncel</div>')
-    .typeString('<div class="terminal_text"><strong>Currently:</strong> GlampingHub | Front-End Developer | Seville</div>')
+    .typeString('<div class="terminal_text"><strong>Currently:</strong> Wellness TechGroup | Front-End Developer | Seville</div>')
     .typeString('<div class="terminal_text"><strong>Contact:</strong> +34.649.34.40.46 | raulalvarez15@hotmail.com</div>')
     .typeString('<div class="terminal_text"><strong>Websites:</strong> raualvron.github.io | linkedin.com/in/raulalvarezroncel</div>')
     .typeString('<div class="terminal_text"><strong>Skills:</strong> HTML, CSS, SASS, Bootstrap, JQuery, Underscore.js, Moment.js, Vanilla JS, Ember.js, Node.js, React, Polymer.js, AngularJS, Ionic, Apache Cordova, Android, Symfony, Laravel, NPM, Bower, </div>')
